@@ -3,6 +3,8 @@ background-color: darkolivegreen;
 }
 nav{
     padding-bottom: 25px;
+    background-color: teal;
+    
 }
 nav ul{
     display:flex;
@@ -13,6 +15,7 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
+    color: tomato;
 }
 #container {
     background-color: lime;
