@@ -4,3 +4,12 @@ background-color: darkolivegreen;
 #container {
     background-color: lime;
 }
+h1 {
+    font-size:36px ;
+    color: purple;
+    font-weight: bold;
+}
+h2 {
+    font-size:24px ;
+    color: navy;
+}
