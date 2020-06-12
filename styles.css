@@ -1,6 +1,12 @@
 body {
 background-color: darkolivegreen;
 }
+nav{
+    padding-bottom: 25px;
+}
+nav ul{
+    display:flex;
+}
 #container {
     background-color: lime;
     padding: 50px ;
