@@ -16,6 +16,9 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: #5eff479e;
+    font-weight: bold ;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 #container {
     background-color: lime;
